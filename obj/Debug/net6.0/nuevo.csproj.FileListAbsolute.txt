@@ -1,0 +1,15 @@
+C:\Users\Joaquin\Desktop\cc\nuevo\bin\Debug\net6.0\nuevo.exe
+C:\Users\Joaquin\Desktop\cc\nuevo\bin\Debug\net6.0\nuevo.deps.json
+C:\Users\Joaquin\Desktop\cc\nuevo\bin\Debug\net6.0\nuevo.runtimeconfig.json
+C:\Users\Joaquin\Desktop\cc\nuevo\bin\Debug\net6.0\nuevo.dll
+C:\Users\Joaquin\Desktop\cc\nuevo\bin\Debug\net6.0\nuevo.pdb
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.dll
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\refint\nuevo.dll
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.pdb
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\nuevo.genruntimeconfig.cache
+C:\Users\Joaquin\Desktop\cc\nuevo\obj\Debug\net6.0\ref\nuevo.dll
